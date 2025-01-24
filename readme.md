@@ -15,7 +15,7 @@ an incredible course taught by [Prof. Haiyan Ma](https://ieeexplore.ieee.org/aut
 ---
 
 ## 🎥 See the Demo We Presented on Class
-[▶️Watch](112233)
+https://github.com/user-attachments/assets/d8453c23-ac9d-4afa-8766-b3edb803c07c
 
 ## 🎮 Play with Kinect (Windows only)
 - Install [Kinect for Windows SDK v2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561).
@@ -31,6 +31,6 @@ an incredible course taught by [Prof. Haiyan Ma](https://ieeexplore.ieee.org/aut
 - Press *match-80* to simulate a matched squat-down pose, *match-40* to simulate the stand-up pose. 
 - Now you can control the game without somatosensory hardware.
 
-## 🔗 Refrences with Appreciation
+## 🔗 Refrences
 - **Unity-JumpJump:** An Unity implementation of **跳一跳**, [Github](https://github.com/MetaZhi/Unity-JumpJump)
 - **Kinect v2 Examples with MS-SDK:** An awesome package for developing Kinect Apps with Unity, [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/kinect-v2-examples-with-ms-sdk-18708#description)
