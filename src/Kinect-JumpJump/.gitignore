@@ -1,0 +1,14 @@
+.vs
+Library/
+Logs/
+Temp/
+vgbtechs/
+UserSettings/
+NuiDatabase/
+OpenNI2/
+*.csproj
+*.sln
+*.dll
+*.data
+*.ini
+UnityPackageManager/
